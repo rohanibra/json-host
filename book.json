@@ -1,0 +1,80 @@
+[
+    {
+        "bookid": 1,
+        "bookname": "the great gatsby",
+        "author": "f. scott fitzgerald",
+        "image": "https://i.ibb.co/b3SMCT5/pngwing-1-2.jpg",
+        "review": "a captivating portrayal of the jazz age.",
+        "totalpages": 180,
+        "rating": 4.5,
+        "category": "classic fiction",
+        "tags": ["fiction", "romance", "classic"],
+        "publisher": "scribner",
+        "yearofpublishing": 1925
+    },
+    {
+        "bookid": 2,
+        "bookname": "1984",
+        "author": "george orwell",
+        "image": "https://i.ibb.co/8NrvFsx/kindpng-2193744-1.jpg",
+        "review": "a chilling warning about the dangers of totalitarianism.",
+        "totalpages": 328,
+        "rating": 4.8,
+        "category": "dystopian fiction",
+        "tags": ["fiction", "dystopia", "politics"],
+        "publisher": "secker & warburg",
+        "yearofpublishing": 1949
+    },
+    {
+        "bookid": 3,
+        "bookname": "to kill a mockingbird",
+        "author": "harper lee",
+        "image": "https://i.ibb.co/0YdtrwK/kindpng-81724-1.jpg",
+        "review": "an american classic dealing with themes of race and justice.",
+        "totalpages": 336,
+        "rating": 4.7,
+        "category": "classic fiction",
+        "tags": ["fiction", "coming-of-age", "race"],
+        "publisher": "j. b. lippincott & co.",
+        "yearofpublishing": 1960
+    },
+    {
+        "bookid": 4,
+        "bookname": "the catcher in the rye",
+        "author": "j.d. salinger",
+        "image": "https://i.ibb.co/ZTcQyJ5/kindpng-4022054-1.jpg",
+        "review": "a poignant portrayal of teenage angst and alienation.",
+        "totalpages": 224,
+        "rating": 4.4,
+        "category": "literary fiction",
+        "tags": ["fiction", "coming-of-age"],
+        "publisher": "little, brown and company",
+        "yearofpublishing": 1951
+    },
+    {
+        "bookid": 5,
+        "bookname": "pride and prejudice",
+        "author": "jane austen",
+        "image": "https://i.ibb.co/svRK0jb/kindpng-1064993.jpg",
+        "review": "a timeless romance filled with wit and social commentary.",
+        "totalpages": 432,
+        "rating": 4.6,
+        "category": "romantic fiction",
+        "tags": ["fiction", "romance", "satire"],
+        "publisher": "t. egerton, whitehall",
+        "yearofpublishing": 1813
+    },
+    {
+        "bookid": 6,
+        "bookname": "the hobbit",
+        "author": "j.r.r. tolkien",
+        "image": "https://i.ibb.co/8gZZXSm/kindpng-7318921.jpg",
+        "review": "a charming adventure set in middle-earth.",
+        "totalpages": 310,
+        "rating": 4.9,
+        "category": "fantasy fiction",
+        "tags": ["fiction", "fantasy", "adventure"],
+        "publisher": "allen & unwin",
+        "yearofpublishing": 1937
+    }
+]
